@@ -1,5 +1,5 @@
 {
-  "name": "@ir-engine/ir-template",
+  "name": "@EnchantmentEngine/ee-template",
   "version": "0.0.0",
   "scripts": {
     "test": "exit 0",
